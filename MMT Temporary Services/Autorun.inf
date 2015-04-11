@@ -1,0 +1,4 @@
+[autorun]
+icon=icon.ico
+label=MMT Temporary Services
+OPEN=MMTEvaluationSystemSetup.exe

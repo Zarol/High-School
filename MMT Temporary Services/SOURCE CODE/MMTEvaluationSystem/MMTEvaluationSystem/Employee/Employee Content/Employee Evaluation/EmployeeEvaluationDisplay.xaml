@@ -1,0 +1,49 @@
+﻿<UserControl x:Class="MMTEvaluationSystem.EmployeeEvaluationDisplay"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="595">
+    <StackPanel Name="stackRoot">
+        <Rectangle Name="MarqueTop"
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   VerticalAlignment="Bottom"
+                   Height="3"
+                   Fill="#1585b5"/>
+        <Label Name="lblDate"
+                       Content="Date: 01/16/1995"
+                       FontSize="16" FontWeight="Bold"
+                       VerticalAlignment="Top" 
+                       Padding="2"/>
+        <Label Name="lblWorkQuality" 
+               Content="Work Quality Score:"
+               FontSize="14" FontWeight="Bold"
+               Padding ="0" Margin="30,0,0,0"/>
+        <TextBlock Name="txtBlockWorkQuality"
+                   Margin="30,0,0,3"
+                   FontSize="14" TextWrapping="Wrap" />
+        <Label Name="lblWorkHabit" 
+               Content="Work Habit Score:"
+               FontSize="14" FontWeight="Bold"
+               Padding ="0" Margin="30,0,0,0"/>
+        <TextBlock Name="txtBlockWorkHabit"
+                   Margin="30,0,0,3"
+                   FontSize="14" TextWrapping="Wrap" />
+        <Label Name="lblJobKnowledge" 
+               Content="Job Knowledge Score:"
+               FontSize="14" FontWeight="Bold"
+               Padding ="0" Margin="30,0,0,0"/>
+        <TextBlock Name="txtBlockJobKnowledge"
+                   Margin="30,0,0,3"
+                   FontSize="14" TextWrapping="Wrap" />
+        <Label Name="lblBehavior" 
+               Content="Behavior Score:"
+               FontSize="14" FontWeight="Bold"
+               Padding ="0" Margin="30,0,0,0"/>
+        <TextBlock Name="txtBlockBehavior"
+                   Margin="30,0,0,3"
+                   FontSize="14" TextWrapping="Wrap" />
+        
+    </StackPanel>
+</UserControl>

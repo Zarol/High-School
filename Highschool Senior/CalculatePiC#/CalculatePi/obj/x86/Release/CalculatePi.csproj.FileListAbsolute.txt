@@ -1,0 +1,9 @@
+C:\Users\Saharath\Desktop\CalculatePi\CalculatePi\bin\Release\CalculatePi.exe.manifest
+C:\Users\Saharath\Desktop\CalculatePi\CalculatePi\bin\Release\CalculatePi.application
+C:\Users\Saharath\Desktop\CalculatePi\CalculatePi\bin\Release\CalculatePi.exe
+C:\Users\Saharath\Desktop\CalculatePi\CalculatePi\bin\Release\CalculatePi.pdb
+C:\Users\Saharath\Desktop\CalculatePi\CalculatePi\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Saharath\Desktop\CalculatePi\CalculatePi\obj\x86\Release\CalculatePi.exe.manifest
+C:\Users\Saharath\Desktop\CalculatePi\CalculatePi\obj\x86\Release\CalculatePi.application
+C:\Users\Saharath\Desktop\CalculatePi\CalculatePi\obj\x86\Release\CalculatePi.exe
+C:\Users\Saharath\Desktop\CalculatePi\CalculatePi\obj\x86\Release\CalculatePi.pdb

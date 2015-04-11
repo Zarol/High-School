@@ -1,0 +1,68 @@
+<Page x:Class="LunchMoneyMatch.JobListings"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:local="clr-namespace:LunchMoneyMatch"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:Behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"   
+      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="800"
+	Title="JobListings">
+    <!--Metro UI Packages-->
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resources/Icons.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colours.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.AnimatedSingleRowTabControl.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <local:ArithmeticConverter x:Key="arithmetic" />
+        </ResourceDictionary>
+    </Page.Resources>
+    <!--Facebook Blue: #3b5998, Twitter Dark Blue: #8ec1da, Twitter Light Blue: #c0deed, UI Green: #41a907, UI Blue: #41b1e1-->
+    <!--/Metro UI Packages-->
+    <Controls:MetroContentControl>
+        <Grid Name="gridRoot" Loaded="gridRoot_Loaded">
+
+            <!--JOB ITEMS-->
+            <Grid Name="gridItems" HorizontalAlignment="Left" Width="{Binding ElementName=gridRoot, Path=ActualWidth}">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" Name="columnItems" />
+                    <ColumnDefinition Width="0*" Name="columnApplication" />
+                </Grid.ColumnDefinitions>
+                <Grid.Resources>
+                    <Storyboard x:Key="CollapseItems">
+                        <local:GridLengthAnimation Storyboard.TargetProperty="Width" Storyboard.TargetName="columnApplication" From="0*" To="2*" Duration="0:0:1.5" ReverseValue="0" />
+                    </Storyboard>
+                </Grid.Resources>
+                <!--Matches-->
+                <ScrollViewer Margin="0,0,4,0" Grid.Column="0">
+                    <StackPanel Name="stackPanelMatches" Margin="20">
+
+                    </StackPanel>
+                </ScrollViewer>
+                <GridSplitter Name="gridSplitterMain" Width="5" Background="#3b5998" IsHitTestVisible="True" Visibility="Visible" Grid.Column="0" />
+                <!--Applications-->
+                <Controls:MetroContentControl Name="contentControlApplication" Grid.Column="1">
+                    <Grid Name="gridJobApplication">
+
+                    </Grid>                
+                </Controls:MetroContentControl>
+            </Grid>
+            <!--SEARCH OPTIONS-->
+            <Grid Name="gridMatchRange" Height="250" Width="500" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Label Name="lblMatchRange" Content="Match Range" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="24" FontWeight="Bold" />
+                <Controls:RangeSlider Height="26" HorizontalAlignment="Center" Margin="0,40,0,0" Name="rangeSliderMatch" VerticalAlignment="Top" Width="400" RangeStopSelected="100" RangeStartSelected="80" MinRange="6" />
+                <Label Name="lblLeftBound" Content="{Binding Path=RangeStartSelected, ElementName=rangeSliderMatch}" Height="50" Width="50" FontSize="24" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,30,0,0" />
+                <Label Name="lblRightBound" Content="{Binding Path=RangeStopSelected, ElementName=rangeSliderMatch}" Height="50" Width="50" FontSize="24" FontWeight="Bold" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,30,0,0" />
+                <TextBox Height="23" HorizontalAlignment="Center" Margin="0,100,0,0" MaxLength="65" Name="txtFilter" Controls:TextboxHelper.ClearTextButton="True" Controls:TextboxHelper.Watermark="Filter (ex. Computer Engineer)" VerticalAlignment="Top" Width="350" />
+                <Button Name="btnSearch" Content="SEARCH!" Height="30" Width="80" VerticalAlignment="Bottom" HorizontalAlignment=" Center" Margin="0,0,0,20" Style="{DynamicResource SquareButtonStyle}" FontSize="15" FontWeight="Bold" Click="btnSearch_Click" />
+            </Grid>
+        </Grid>
+    </Controls:MetroContentControl>
+</Page>

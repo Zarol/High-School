@@ -1,0 +1,7 @@
+C:\Users\Saharath\Desktop\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\Saharath\Desktop\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Saharath\Desktop\Matrix\Matrix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saharath\Desktop\Matrix\Matrix\obj\x86\Debug\Matrix.exe
+C:\Users\Saharath\Desktop\Matrix\Matrix\obj\x86\Debug\Matrix.pdb
+I:\3 Computer Science III\Matrix\Matrix\obj\x86\Debug\Matrix.exe
+I:\3 Computer Science III\Matrix\Matrix\obj\x86\Debug\Matrix.pdb

@@ -1,0 +1,38 @@
+﻿<Window x:Class="LunchMoneyMatch.Survey_Controls.QuestionGenerator"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Name="mainwindow" SizeToContent="WidthAndHeight" ResizeMode="NoResize">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Question:"></Label>
+            <TextBox Name="questionBox" Width="351"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Trait: "></Label>
+            <ComboBox Name="TraitComboBox" SelectionChanged="TraitComboBox_SelectionChanged"></ComboBox>
+        </StackPanel>
+        <StackPanel>
+            <Label Name="primTraitLabel" Content="Primary Trait: "></Label>
+            <Label Name="secTraitLabel" Content="Secondary Trait: "></Label>
+        </StackPanel>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Answer A: "></Label>
+                <TextBox Name="answerABox" Width="351"></TextBox>
+            </StackPanel >
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Answer B: "></Label>
+                <TextBox Name="answerBBox" Width="351"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Answer C: "></Label>
+                <TextBox Name="answerCBox" Width="351"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Answer D: "></Label>
+                <TextBox Name="answerDBox" Width="351"></TextBox>
+            </StackPanel>
+        </StackPanel>
+        <Button Content="Submit" Click="Button_Click"></Button>
+    </StackPanel>
+</Window>

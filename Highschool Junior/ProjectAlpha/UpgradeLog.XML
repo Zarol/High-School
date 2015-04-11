@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ProjectAlpha">
+</Property><Property Name="Solution File" Value="K:\ProjectAlpha\ProjectAlpha.sln">
+</Property><Property Name="User Options File" Value="K:\ProjectAlpha\ProjectAlpha.suo">
+</Property><Property Name="Date" Value="Wednesday, December 07, 2011">
+</Property><Property Name="Time" Value="19:20 PM">
+</Property><Property Name="Solution" Value="ProjectAlpha">
+</Property><Property Name="Solution File" Value="K:\ProjectAlpha\ProjectAlpha.sln">
+</Property><Property Name="Date" Value="Wednesday, December 07, 2011">
+</Property><Property Name="Time" Value="19:20:21 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ProjectAlpha.sln" Description="File successfully backed up as K:\ProjectAlpha\Backup\ProjectAlpha.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ProjectAlpha.suo" Description="File successfully backed up as K:\ProjectAlpha\Backup\ProjectAlpha.suo">
+</Event><Event ErrorLevel="0" Project="ProjectAlpha" Source="ProjectAlpha\ProjectAlpha.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="ProjectAlpha" Source="ProjectAlpha\ProjectAlpha.csproj" Description="Project file successfully backed up as K:\ProjectAlpha\Backup\ProjectAlpha\ProjectAlpha.csproj">
+</Event><Event ErrorLevel="0" Project="ProjectAlpha" Source="ProjectAlpha\ProjectAlpha.csproj.user" Description="Project user file successfully backed up as K:\ProjectAlpha\Backup\ProjectAlpha\ProjectAlpha.csproj.user">
+</Event><Event ErrorLevel="0" Project="ProjectAlpha" Source="ProjectAlpha\Camera.cs" Description="File successfully backed up as K:\ProjectAlpha\Backup\ProjectAlpha\Camera.cs">
+</Event><Event ErrorLevel="0" Project="ProjectAlpha" Source="ProjectAlpha\Directions.cs" Description="File successfully backed up as K:\ProjectAlpha\Backup\ProjectAlpha\Directions.cs">
+</Event><Event ErrorLevel="0" Project="ProjectAlpha" Source="ProjectAlpha\Grid.cs" Description="File successfully backed up as K:\ProjectAlpha\Backup\ProjectAlpha\Grid.cs">
+</Event><Event ErrorLevel="0" Project="ProjectAlpha" Source="ProjectAlpha\Hex.cs" Description="File successfully backed up as K:\ProjectAlpha\Backup\ProjectAlpha\Hex.cs">
+</Event><Event ErrorLevel="0" Project="ProjectAlpha" Source="ProjectAlpha\Properties\AssemblyInfo.cs" Description="File successfully backed up as K:\ProjectAlpha\Backup\ProjectAlpha\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ProjectAlpha" Source="ProjectAlpha\Program.cs" Description="File successfully backed up as K:\ProjectAlpha\Backup\ProjectAlpha\Program.cs">
+</Event><Event ErrorLevel="0" Project="ProjectAlpha" Source="ProjectAlpha\Game1.cs" Description="File successfully backed up as K:\ProjectAlpha\Backup\ProjectAlpha\Game1.cs">
+</Event><Event ErrorLevel="0" Project="ProjectAlpha" Source="ProjectAlpha\Game.ico" Description="File successfully backed up as K:\ProjectAlpha\Backup\ProjectAlpha\Game.ico">
+</Event><Event ErrorLevel="0" Project="ProjectAlpha" Source="ProjectAlpha\GameThumbnail.png" Description="File successfully backed up as K:\ProjectAlpha\Backup\ProjectAlpha\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="ProjectAlpha" Source="ProjectAlpha\ProjectAlpha.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ProjectAlpha" Source="ProjectAlpha\ProjectAlpha.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ProjectAlpha.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ProjectAlpha.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ProjectAlpha" Source="ProjectAlpha\ProjectAlpha.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ProjectAlpha" Source="ProjectAlpha\ProjectAlpha.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="debugFont.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="tex_GrassHex.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="ProjectAlphaContent" Source="ProjectAlpha\Content\ProjectAlphaContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteDemo", "SpriteDemo\SpriteDemo\SpriteDemo.csproj", "{A3123DAF-9AC3-4273-86C8-1C0D6826D51D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SpriteDemoContent", "SpriteDemo\SpriteDemoContent\SpriteDemoContent.contentproj", "{2E85F7EA-910A-496A-B154-B350801A6326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3123DAF-9AC3-4273-86C8-1C0D6826D51D}.Debug|x86.ActiveCfg = Debug|x86
+		{A3123DAF-9AC3-4273-86C8-1C0D6826D51D}.Debug|x86.Build.0 = Debug|x86
+		{A3123DAF-9AC3-4273-86C8-1C0D6826D51D}.Release|x86.ActiveCfg = Release|x86
+		{A3123DAF-9AC3-4273-86C8-1C0D6826D51D}.Release|x86.Build.0 = Release|x86
+		{2E85F7EA-910A-496A-B154-B350801A6326}.Debug|x86.ActiveCfg = Debug|x86
+		{2E85F7EA-910A-496A-B154-B350801A6326}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

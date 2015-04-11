@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="MMTEvaluationSystem.EmployeeAdd"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+             xmlns:local="clr-namespace:MMTEvaluationSystem"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="400">
+    <StackPanel Name="stackRoot"
+                Margin="15,0">
+        <Controls:MetroContentControl Name="contentControl">
+            <StackPanel Name="stackName">
+                <!--HEADER-->
+                <Label Name="lblNewEmployee"
+                   Content="Add New Employee"
+                   FontSize="18" FontWeight="Bold"
+                   HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Rectangle Name="MarqueTop"
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   VerticalAlignment="Bottom"
+                   Height="3"
+                   Fill="#1585b5"/>
+                <!--First Name-->
+                <Grid Name="gridFirstName"
+              Margin="0,4">
+                    <Label Name="lblFirstName"
+                   Content="First Name:"
+                   FontSize="14" FontWeight="Bold"/>
+                    <TextBox Name="txtBoxFirstName"
+                             Controls:TextboxHelper.Watermark="ex. Saharath Jay Jay" Controls:TextboxHelper.ClearTextButton="True" 
+                     Margin="85,0,0,0" LostFocus="txtBoxFirstName_LostFocus" TabIndex="1" />
+                </Grid>
+                <!--Last Name-->
+                <Grid Name="gridLastName"
+              Margin="0,4">
+                    <Label Name="lblLastName"
+                   Content="Last Name:"
+                   FontSize="14" FontWeight="Bold"/>
+                    <TextBox Name="txtBoxLastName"
+                             Controls:TextboxHelper.Watermark="ex. Kleips" Controls:TextboxHelper.ClearTextButton="True" 
+                     Margin="85,0,0,0" LostFocus="txtBoxLastName_LostFocus" TabIndex="2" />
+                </Grid>
+
+            </StackPanel>
+        </Controls:MetroContentControl>
+        <local:InformationEdit x:Name="InformationEdit" />
+        <!--FOOTER-->
+        <Rectangle Name="MarqueBottom"
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   VerticalAlignment="Bottom"
+                   Height="3"
+                   Fill="#1585b5"/>
+        <local:InformationButtons x:Name="InformationButtons" />
+    </StackPanel>
+</UserControl>

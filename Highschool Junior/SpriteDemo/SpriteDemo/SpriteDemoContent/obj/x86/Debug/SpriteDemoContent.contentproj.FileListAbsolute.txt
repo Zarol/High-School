@@ -1,0 +1,8 @@
+F:\Dropbox\SpriteDemo\SpriteDemo\SpriteDemoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Student\Desktop\SpriteDemo\SpriteDemo\SpriteDemoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\SpriteDemo\SpriteDemo\SpriteDemoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\SpriteDemo\SpriteDemo\SpriteDemoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SpriteDemo\SpriteDemo\SpriteDemoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Junior\5 DGP\Game Projects\SpriteDemo\SpriteDemo\SpriteDemoContent\obj\x86\Debug\ResolveAssemblyReference.cache

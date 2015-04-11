@@ -1,0 +1,681 @@
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\Resources\Icons.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\ResumeControl.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\NotificationControl.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\ResumeControl.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\bin\Debug\MahApps.Metro.dll
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\NotificationControl.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\Saharath\Desktop\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\bin\Debug\MahApps.Metro.dll
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\Resources\Icons.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\ResumeControl.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\NotificationControl.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\ResumeControl.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\NotificationControl.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\bin\Debug\MahApps.Metro.dll
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\Resources\Icons.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\ResumeControl.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\NotificationControl.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\ResumeControl.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\NotificationControl.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\Settings.baml
+C:\Users\Saharath\Desktop\LunchMoneyMatch v0.0.01\LunchMoneyMatch\obj\x86\Debug\Settings.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\MahApps.Metro.dll
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.csprojResolveAssemblyReference.cache
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Resources\Icons.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\ResumeControl.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Settings.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\NotificationControl.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\ResumeControl.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Settings.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\NotificationControl.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.csproj.GenerateResource.Cache
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Profile.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Profile.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\MahApps.Metro.dll
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Profile.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Resources\Icons.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\ResumeControl.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Settings.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\NotificationControl.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Profile.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\ResumeControl.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Settings.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\NotificationControl.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\MahApps.Metro.dll
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Profile.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Resources\Icons.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\ResumeControl.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Settings.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\NotificationControl.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Profile.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\ResumeControl.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Settings.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\NotificationControl.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\MahApps.Metro.dll
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Profile.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Resources\Icons.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\ResumeControl.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Settings.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\NotificationControl.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Profile.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\ResumeControl.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Settings.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\NotificationControl.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.03\LunchMoneyMatch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Profile.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resources\Icons.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Settings.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Profile.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Settings.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\MahApps.Metro.dll
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\MahApps.Metro.dll
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\JobListings.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Profile.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resources\Icons.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\ResumeControl.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Settings.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\JobListings.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\NotificationControl.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Profile.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\ResumeControl.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Settings.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\NotificationControl.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthControl.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthControl.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\MahApps.Metro.dll
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.csprojResolveAssemblyReference.cache
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthControl.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\JobListings.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Profile.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resources\Icons.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Settings.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthControl.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\JobListings.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\NotificationControl.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Profile.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Settings.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\NotificationControl.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.csproj.GenerateResource.Cache
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\MahApps.Metro.dll
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthControl.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\JobListings.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Profile.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resources\Icons.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Settings.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthControl.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\JobListings.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\NotificationControl.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Profile.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Settings.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\NotificationControl.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.csproj.GenerateResource.Cache
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthControl.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthControl.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\AlertControl.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\AlertControl.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingItem.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\JobListings.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingItem.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.09\LunchMoneyMatch\obj\x86\Debug\JobListings.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\MahApps.Metro.dll
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthControl.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingItem.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Settings.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthControl.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingItem.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\AlertControl.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Settings.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\AlertControl.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.csproj.GenerateResource.Cache
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthControl.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar\Calendar.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingItem.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Settings.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthControl.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar\Calendar.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingItem.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\AlertControl.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Settings.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\MahApps.Metro.dll
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\AlertControl.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.csprojResolveAssemblyReference.cache
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthControl.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar\Calendar.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingItem.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resources\Icons.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Settings.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthControl.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar\Calendar.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingItem.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\JobListings.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\AlertControl.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Settings.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\JobListings.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\AlertControl.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.csproj.GenerateResource.Cache
+C:\Users\Sanju\Dropbox\Doubleshot Espresso (1)\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar\Calendar.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingApplication.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar\Calendar.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingApplication.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationFreeResponseQuestion.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingApplication.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeExpander.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeElement.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationFreeResponseQuestion.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingApplication.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeExpander.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeElement.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\MahApps.Metro.dll
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolControl.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationMultipleChoiceQuestion.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationFreeResponseQuestion.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingItem.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingApplication.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\Profile.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeExpander.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeElement.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Settings.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolControl.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationMultipleChoiceQuestion.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationFreeResponseQuestion.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingItem.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingApplication.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListings.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\AlertControl.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\Profile.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeExpander.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeElement.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Settings.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListings.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\AlertControl.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolControl.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationMultipleChoiceQuestion.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\Profile.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolControl.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationMultipleChoiceQuestion.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListings.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\Profile.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListings.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolControl.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationMultipleChoiceQuestion.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationFreeResponseQuestion.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\Profile.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeExpander.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeElement.baml
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolControl.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationMultipleChoiceQuestion.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationFreeResponseQuestion.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListings.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\Profile.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeExpander.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeElement.g.cs
+C:\Users\Shane\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListings.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\QuestionControl.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\SurveyPage.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\QuestionControl.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\SurveyPage.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolHandler.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolButtons.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolButtons.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolHandler.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolButtons.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\QuestionControl.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\SurveyPage.baml
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolHandler.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolButtons.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\QuestionControl.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\SurveyPage.g.cs
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolHandler.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthCalendar.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthCalendar.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\DayControl.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\DayControl.g.cs
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\CollegeHandler.baml
+C:\Users\Saharath\Dropbox\Doubleshot of Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\CollegeHandler.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.exe
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\LunchMoneyMatch.pdb
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\MahApps.Metro.dll
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\DayControl.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolButtons.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolControl.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationMultipleChoiceQuestion.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationFreeResponseQuestion.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingItem.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingApplication.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Login.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\MainWindow.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Navigation.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\QuestionControl.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\SurveyPage.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeExpander.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeElement.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Settings.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\SignUp.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthCalendar.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\DayControl.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\CollegeHandler.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolHandler.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolButtons.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolControl.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationMultipleChoiceQuestion.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\ApplicationFreeResponseQuestion.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingItem.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListingApplication.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListings.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Login.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Navigation.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\AlertControl.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\Profile.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\QuestionControl.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\SurveyPage.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeExpander.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeElement.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume\ResumeControl.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Settings.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\SignUp.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\App.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.cache
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch_MarkupCompile.lref
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Calendar Controls\MonthCalendar.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\CollegeHandler.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\HighSchoolHandler.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Job Listing Controls\JobListings.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\AlertControl.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Profile\Profile.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Resume.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.g.resources
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.Properties.Resources.resources
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.exe
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\LunchMoneyMatch.pdb
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\QuestionGenerator.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\QuestionGeneratorConfirmationDialog.baml
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\QuestionGenerator.g.cs
+C:\Users\Tim\Dropbox\Doubleshot Espresso\LunchMoneyMatch v0.0.13\LunchMoneyMatch\obj\x86\Debug\Survey Controls\QuestionGeneratorConfirmationDialog.g.cs

@@ -1,0 +1,133 @@
+<UserControl x:Class="LunchMoneyMatch.CollegeControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:Behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"
+             xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+             mc:Ignorable="d" 
+             d:DesignHeight="275" d:DesignWidth="550">
+    <!--Created this just to hold your layout-->
+    <!--Metro UI Packages-->
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resources/Icons.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colours.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.AnimatedSingleRowTabControl.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    
+    <StackPanel Name="stackRoot"
+                Margin="15,0">
+        <Label Name="lblCollege"
+               Content="College"
+               FontSize="18" FontWeight="Bold"
+               HorizontalAlignment="Center"
+               Padding="0"/>
+        <Rectangle Name="Marque1"
+                   Fill="#3b5998"
+                   Height="5"
+                   Margin="0,0,0,5"/>
+        <Grid Name="gridCollegeName" Margin="15,2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Label Name="lblCollegeName" Content="College Name:" Grid.Row="0" Grid.Column="0" FontSize="16" />
+            <TextBox Name="txtCollegeName" Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" />
+        </Grid>
+        <Grid Name="gridCollegeState"
+              Margin="15,2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Label Name="lblCollegeState"
+                   Content="State:"
+                   Grid.Row="0" Grid.Column="0"
+                   FontSize="16"/>
+            <ComboBox Name="comboCollegeState"
+                      Grid.Row="0" Grid.Column="1"
+                      VerticalAlignment="Center"/>
+        </Grid>
+        <Grid Name="gridGPA"
+              Margin="15,2" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="1*"  />
+                <ColumnDefinition Width="250" />
+            </Grid.ColumnDefinitions>
+            <Label Name="lblCollegeGPA"
+                   Content="GPA"
+                   Grid.Row="0" Grid.Column="0"
+                   FontSize="16" />
+            <ComboBox Name="comboCollegeGPA"
+                      Grid.Row="0" Grid.Column="1"
+                      VerticalAlignment="Center" />
+        </Grid>
+        <Grid Name="gridDegree"
+              Margin="15,2" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="1*"  />
+                <ColumnDefinition Width="100" />
+            </Grid.ColumnDefinitions>
+            <Label Name="lblCollegeDegree"
+                   Content="Degree"
+                   Grid.Row="0" Grid.Column="0"
+                   FontSize="16" />
+            <ComboBox Name="comboCollegeDegree"
+                      Grid.Row="0" Grid.Column="1"
+                      VerticalAlignment="Center" />
+        </Grid>
+        <Grid Name="gridMajor"
+              Margin="15,2" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="1*"  />
+                
+            </Grid.ColumnDefinitions>
+            <Label Name="lblCollegeMajor"
+                   Content="Major"
+                   Grid.Row="0" Grid.Column="0"
+                   FontSize="16" />
+            <TextBox Name="comboCollegeMajor"
+                      Grid.Row="0" Grid.Column="1"
+                      VerticalAlignment="Center" />
+        </Grid>
+        <Grid Name="gridYears"
+              Margin="15,2" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="1*"  />
+                <ColumnDefinition Width="1*"  />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Label Name="lblCollegeYears"
+                   Content="Years Attended"
+                   Grid.Row="0" Grid.Column="0"
+                   FontSize="16" />
+            <ComboBox Name="comboCollegeStartYear"
+                      Grid.Row="0" Grid.Column="1"
+                      VerticalAlignment="Center" />
+            <Label Name="lblDivider"
+                   Content="-"
+                   Grid.Row="0" Grid.Column="2" 
+                   VerticalAlignment="Center" HorizontalAlignment="Center"
+                   FontSize="16"/>
+            <ComboBox Name="comboCollegeEndYear"
+                      Grid.Row="0" Grid.Column="3"
+                      VerticalAlignment="Center" />
+        </Grid>
+        <Rectangle Name="Marque2"
+                   Fill="#3b5998"
+                   Height="5"
+                   Margin="0,5"/>
+    </StackPanel>
+</UserControl>

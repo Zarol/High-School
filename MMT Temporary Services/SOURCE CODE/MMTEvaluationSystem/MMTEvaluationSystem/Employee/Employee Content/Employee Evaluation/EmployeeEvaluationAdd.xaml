@@ -1,0 +1,60 @@
+﻿<UserControl x:Class="MMTEvaluationSystem.EmployeeEvaluationAdd"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="150" d:DesignWidth="400" Loaded="UserControl_Loaded">
+    <Controls:MetroContentControl Name="contentControlRoot">
+    <StackPanel Name="rootStack"
+                Margin="10,0">
+        <Label Name="lblNewEvaluation"
+               Content="Create New Evaluation"
+               VerticalAlignment="Center" HorizontalAlignment="Center"
+               FontWeight="Bold" FontSize="18"/>
+        <Rectangle Name="Marque1"
+                       Height="3"
+                       Margin="0,0"
+                       Fill="#1585b5"/>
+        <Grid Name="gridEmployer"
+              Margin="10,5,10,0">
+            <Label Name="lblEmployer"
+                   Content="Employer:"
+                   FontSize="14" FontWeight="Bold"/>
+            <ComboBox Name="comboEmployer"
+                      VerticalAlignment="Center"
+                      Margin="80,0,0,0" SelectionChanged="comboEmployer_SelectionChanged" />
+
+        </Grid>            
+        <Grid Name="gridDate"
+              Margin="10,5,10,0">
+            <Label Name="lblDate"
+                       Content="Date:"
+                       FontSize="14" FontWeight="Bold"/>
+            <TextBox Name="txtBoxDate"
+                     VerticalAlignment="Center"
+                     Margin="80,0,0,0" 
+                     Controls:TextboxHelper.Watermark="ex. mm/dd/yyyy" LostFocus="txtBoxDate_LostFocus" />
+        </Grid>
+        <Grid Name="gridButtons"
+              Margin="10,5,10,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Button Name="btnOkay"
+                    Content="Okay"
+                    Grid.Row="0" Grid.Column="2"
+                    Margin="5,0,0,0"
+                    VerticalAlignment="Center" Click="btnOkay_Click" />
+            <Button Name="btnCancel"
+                    Content="Cancel"
+                    Grid.Row="0" Grid.Column="1"
+                    Margin="0,0,5,0"
+                    VerticalAlignment="Center" Click="btnCancel_Click" />
+        </Grid>
+    </StackPanel>
+    </Controls:MetroContentControl>
+</UserControl>

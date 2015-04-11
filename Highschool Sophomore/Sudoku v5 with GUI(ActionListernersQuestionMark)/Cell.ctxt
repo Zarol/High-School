@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=intVal\ loc
+comment0.target=Cell(int,\ java.awt.Point)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cell\r\n
+comment1.params=
+comment1.target=java.awt.Point\ getLocation()
+comment1.text=\r\n\ This\ method\ will\ return\ the\ cell's\ location\r\n
+comment2.params=
+comment2.target=int\ getValue()
+comment2.text=\r\n\ This\ method\ will\ get\ the\ cell's\ value\r\n
+comment3.params=intVal
+comment3.target=void\ setValue(int)
+comment3.text=\r\n\ This\ method\ will\ set\ the\ cell's\ value\r\n
+numComments=4

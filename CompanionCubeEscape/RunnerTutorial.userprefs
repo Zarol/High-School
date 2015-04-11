@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Runner/Assets/Managers/ParticleEmitterManager.cs">
+    <Files>
+      <File FileName="Assets/Managers/GUIManager.cs" Line="27" Column="1" />
+      <File FileName="Assets/Managers/GameEventManager.cs" Line="15" Column="15" />
+      <File FileName="Assets/Platform/PlatformManager.cs" Line="25" Column="19" />
+      <File FileName="Assets/Runner/Runner.cs" Line="50" Column="27" />
+      <File FileName="../Runner/Assets/Runner/Runner.cs" Line="50" Column="2" />
+      <File FileName="../Runner/Assets/Managers/GUIManager.cs" Line="8" Column="37" />
+      <File FileName="../Runner/Assets/Managers/ParticleEmitterManager.cs" Line="10" Column="14" />
+      <File FileName="Assets/Managers/ParticleEmitterManager.cs" Line="24" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

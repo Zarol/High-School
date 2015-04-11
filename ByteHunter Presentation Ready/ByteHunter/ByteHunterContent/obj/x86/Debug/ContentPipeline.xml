@@ -1,0 +1,973 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Misc\AlphaFader.png</Source>
+      <Name>Misc\AlphaFader</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Misc\AlphaFader.xnb</Output>
+      <Time>2012-05-12T15:54:02-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Items\Byte Hunter.png</Source>
+      <Name>Main Menu\Items\Byte Hunter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Items\Byte Hunter.xnb</Output>
+      <Time>2012-05-13T19:31:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_1.jpg</Source>
+      <Name>Main Menu\Background\Background_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_1.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_10.jpg</Source>
+      <Name>Main Menu\Background\Background_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_10.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_11.jpg</Source>
+      <Name>Main Menu\Background\Background_11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_11.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_12.jpg</Source>
+      <Name>Main Menu\Background\Background_12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_12.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_13.jpg</Source>
+      <Name>Main Menu\Background\Background_13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_13.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_14.jpg</Source>
+      <Name>Main Menu\Background\Background_14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_14.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_15.jpg</Source>
+      <Name>Main Menu\Background\Background_15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_15.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_16.jpg</Source>
+      <Name>Main Menu\Background\Background_16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_16.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_17.jpg</Source>
+      <Name>Main Menu\Background\Background_17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_17.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_18.jpg</Source>
+      <Name>Main Menu\Background\Background_18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_18.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_19.jpg</Source>
+      <Name>Main Menu\Background\Background_19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_19.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_2.jpg</Source>
+      <Name>Main Menu\Background\Background_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_2.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_20.jpg</Source>
+      <Name>Main Menu\Background\Background_20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_20.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_21.jpg</Source>
+      <Name>Main Menu\Background\Background_21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_21.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_22.jpg</Source>
+      <Name>Main Menu\Background\Background_22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_22.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_23.jpg</Source>
+      <Name>Main Menu\Background\Background_23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_23.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_24.jpg</Source>
+      <Name>Main Menu\Background\Background_24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_24.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_25.jpg</Source>
+      <Name>Main Menu\Background\Background_25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_25.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_26.jpg</Source>
+      <Name>Main Menu\Background\Background_26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_26.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_27.jpg</Source>
+      <Name>Main Menu\Background\Background_27</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_27.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_28.jpg</Source>
+      <Name>Main Menu\Background\Background_28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_28.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_29.jpg</Source>
+      <Name>Main Menu\Background\Background_29</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_29.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_3.jpg</Source>
+      <Name>Main Menu\Background\Background_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_3.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_30.jpg</Source>
+      <Name>Main Menu\Background\Background_30</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_30.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_31.jpg</Source>
+      <Name>Main Menu\Background\Background_31</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_31.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_32.jpg</Source>
+      <Name>Main Menu\Background\Background_32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_32.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_33.jpg</Source>
+      <Name>Main Menu\Background\Background_33</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_33.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_34.jpg</Source>
+      <Name>Main Menu\Background\Background_34</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_34.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_35.jpg</Source>
+      <Name>Main Menu\Background\Background_35</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_35.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_36.jpg</Source>
+      <Name>Main Menu\Background\Background_36</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_36.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_37.jpg</Source>
+      <Name>Main Menu\Background\Background_37</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_37.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_38.jpg</Source>
+      <Name>Main Menu\Background\Background_38</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_38.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_39.jpg</Source>
+      <Name>Main Menu\Background\Background_39</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_39.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_4.jpg</Source>
+      <Name>Main Menu\Background\Background_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_4.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_40.jpg</Source>
+      <Name>Main Menu\Background\Background_40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_40.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_41.jpg</Source>
+      <Name>Main Menu\Background\Background_41</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_41.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_42.jpg</Source>
+      <Name>Main Menu\Background\Background_42</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_42.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_43.jpg</Source>
+      <Name>Main Menu\Background\Background_43</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_43.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_44.jpg</Source>
+      <Name>Main Menu\Background\Background_44</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_44.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_45.jpg</Source>
+      <Name>Main Menu\Background\Background_45</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_45.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_46.jpg</Source>
+      <Name>Main Menu\Background\Background_46</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_46.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_47.jpg</Source>
+      <Name>Main Menu\Background\Background_47</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_47.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_48.jpg</Source>
+      <Name>Main Menu\Background\Background_48</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_48.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_49.jpg</Source>
+      <Name>Main Menu\Background\Background_49</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_49.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_5.jpg</Source>
+      <Name>Main Menu\Background\Background_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_5.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_50.jpg</Source>
+      <Name>Main Menu\Background\Background_50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_50.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_51.jpg</Source>
+      <Name>Main Menu\Background\Background_51</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_51.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_52.jpg</Source>
+      <Name>Main Menu\Background\Background_52</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_52.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_53.jpg</Source>
+      <Name>Main Menu\Background\Background_53</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_53.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_54.jpg</Source>
+      <Name>Main Menu\Background\Background_54</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_54.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_55.jpg</Source>
+      <Name>Main Menu\Background\Background_55</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_55.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_56.jpg</Source>
+      <Name>Main Menu\Background\Background_56</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_56.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_57.jpg</Source>
+      <Name>Main Menu\Background\Background_57</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_57.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_58.jpg</Source>
+      <Name>Main Menu\Background\Background_58</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_58.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_59.jpg</Source>
+      <Name>Main Menu\Background\Background_59</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_59.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_6.jpg</Source>
+      <Name>Main Menu\Background\Background_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_6.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_60.jpg</Source>
+      <Name>Main Menu\Background\Background_60</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_60.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_61.jpg</Source>
+      <Name>Main Menu\Background\Background_61</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_61.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_62.jpg</Source>
+      <Name>Main Menu\Background\Background_62</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_62.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_63.jpg</Source>
+      <Name>Main Menu\Background\Background_63</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_63.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_64.jpg</Source>
+      <Name>Main Menu\Background\Background_64</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_64.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_65.jpg</Source>
+      <Name>Main Menu\Background\Background_65</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_65.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_66.jpg</Source>
+      <Name>Main Menu\Background\Background_66</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_66.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_67.jpg</Source>
+      <Name>Main Menu\Background\Background_67</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_67.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_68.jpg</Source>
+      <Name>Main Menu\Background\Background_68</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_68.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_69.jpg</Source>
+      <Name>Main Menu\Background\Background_69</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_69.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_7.jpg</Source>
+      <Name>Main Menu\Background\Background_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_7.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_8.jpg</Source>
+      <Name>Main Menu\Background\Background_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_8.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Background\Background_9.jpg</Source>
+      <Name>Main Menu\Background\Background_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Background\Background_9.xnb</Output>
+      <Time>2012-05-13T22:56:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Items\Credits Active.png</Source>
+      <Name>Main Menu\Items\Credits Active</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Items\Credits Active.xnb</Output>
+      <Time>2012-05-22T03:42:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Items\Credits.png</Source>
+      <Name>Main Menu\Items\Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Items\Credits.xnb</Output>
+      <Time>2012-05-22T03:43:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Items\Exit Active.png</Source>
+      <Name>Main Menu\Items\Exit Active</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Items\Exit Active.xnb</Output>
+      <Time>2012-05-22T03:43:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Items\Exit.png</Source>
+      <Name>Main Menu\Items\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Items\Exit.xnb</Output>
+      <Time>2012-05-22T03:43:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Items\Start Game Active.png</Source>
+      <Name>Main Menu\Items\Start Game Active</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Items\Start Game Active.xnb</Output>
+      <Time>2012-05-22T03:43:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Items\Start Game.png</Source>
+      <Name>Main Menu\Items\Start Game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Items\Start Game.xnb</Output>
+      <Time>2012-05-22T03:43:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\EnemyBullet.png</Source>
+      <Name>Entity\EnemyBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Entity\EnemyBullet.xnb</Output>
+      <Time>2012-05-23T00:07:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\Player.png</Source>
+      <Name>Entity\Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Entity\Player.xnb</Output>
+      <Time>2012-05-22T23:36:02-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\PlayerBullet.png</Source>
+      <Name>Entity\PlayerBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Entity\PlayerBullet.xnb</Output>
+      <Time>2012-05-22T18:27:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\EnemySprite.png</Source>
+      <Name>Entity\EnemySprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Entity\EnemySprite.xnb</Output>
+      <Time>2012-05-22T03:36:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Items\Instructions Active.png</Source>
+      <Name>Main Menu\Items\Instructions Active</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Items\Instructions Active.xnb</Output>
+      <Time>2012-05-22T03:43:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Main Menu\Items\Instructions.png</Source>
+      <Name>Main Menu\Items\Instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Main Menu\Items\Instructions.xnb</Output>
+      <Time>2012-05-22T03:43:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Instructions\Full Instructions.png</Source>
+      <Name>Instructions\Full Instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Instructions\Full Instructions.xnb</Output>
+      <Time>2012-05-23T00:29:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerHitBox.png</Source>
+      <Name>PlayerHitBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\PlayerHitBox.xnb</Output>
+      <Time>2012-05-22T23:39:04-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\Enemy1.png</Source>
+      <Name>Entity\Enemy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Entity\Enemy1.xnb</Output>
+      <Time>2012-05-22T23:40:10-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\Enemy2.png</Source>
+      <Name>Entity\Enemy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Entity\Enemy2.xnb</Output>
+      <Time>2012-05-22T23:40:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\Enemy3.png</Source>
+      <Name>Entity\Enemy3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Entity\Enemy3.xnb</Output>
+      <Time>2012-05-22T23:40:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\Enemy4.png</Source>
+      <Name>Entity\Enemy4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Entity\Enemy4.xnb</Output>
+      <Time>2012-05-22T23:41:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\Enemy5.png</Source>
+      <Name>Entity\Enemy5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Entity\Enemy5.xnb</Output>
+      <Time>2012-05-22T23:41:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Borders.png</Source>
+      <Name>HUD\Borders</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\HUD\Borders.xnb</Output>
+      <Time>2012-05-23T00:03:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Health HUD 1.png</Source>
+      <Name>HUD\Health HUD 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\HUD\Health HUD 1.xnb</Output>
+      <Time>2012-05-23T00:03:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Health HUD 2.png</Source>
+      <Name>HUD\Health HUD 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\HUD\Health HUD 2.xnb</Output>
+      <Time>2012-05-23T00:03:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Health HUD 3.png</Source>
+      <Name>HUD\Health HUD 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\HUD\Health HUD 3.xnb</Output>
+      <Time>2012-05-23T00:03:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Health HUD 4.png</Source>
+      <Name>HUD\Health HUD 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\HUD\Health HUD 4.xnb</Output>
+      <Time>2012-05-23T00:03:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Health HUD 5.png</Source>
+      <Name>HUD\Health HUD 5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\HUD\Health HUD 5.xnb</Output>
+      <Time>2012-05-23T00:03:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Health HUD 6.png</Source>
+      <Name>HUD\Health HUD 6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\HUD\Health HUD 6.xnb</Output>
+      <Time>2012-05-23T00:03:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Health HUD 7.png</Source>
+      <Name>HUD\Health HUD 7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\HUD\Health HUD 7.xnb</Output>
+      <Time>2012-05-23T00:03:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Health HUD 8.png</Source>
+      <Name>HUD\Health HUD 8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\HUD\Health HUD 8.xnb</Output>
+      <Time>2012-05-23T00:03:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2012-05-22T05:01:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\PlayerShoot.wav</Source>
+      <Name>Entity\PlayerShoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Entity\PlayerShoot.xnb</Output>
+      <Time>2012-05-22T05:30:28-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Entity\EnemyExplosion.wav</Source>
+      <Name>Entity\EnemyExplosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Entity\EnemyExplosion.xnb</Output>
+      <Time>2012-05-22T06:16:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Background.wav</Source>
+      <Name>Background</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2012-05-23T00:03:58-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunterContent\</RootDirectory>
+      <LoggerRootDirectory>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\</LoggerRootDirectory>
+      <IntermediateDirectory>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunterContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>J:\Junior\5 DGP\ByteHunter Presentation Ready\ByteHunter\ByteHunter\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-18T23:55:24.6131337-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

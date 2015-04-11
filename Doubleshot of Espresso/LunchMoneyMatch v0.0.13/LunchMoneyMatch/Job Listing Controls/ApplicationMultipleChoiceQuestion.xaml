@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="LunchMoneyMatch.ApplicationMultipleChoiceQuestion"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:Behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"   
+             xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="500">
+    <!--Metro UI Packages-->
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colours.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.AnimatedSingleRowTabControl.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <!--Facebook Blue: #3b5998, Twitter Dark Blue: #8ec1da, Twitter Light Blue: #c0deed, UI Green: #41a907, UI Blue: #41b1e1-->
+
+    <Border BorderBrush="#3b5998" BorderThickness="3" HorizontalAlignment="Stretch" Margin="0,15" Name="borderQuestion" VerticalAlignment="Top" >
+        <!--Main Grid-->
+        <Grid Name="gridQuestion">
+            <!--Main Stack-->
+            <StackPanel>
+                <!--Question-->
+                <TextBlock Text="Is this the placeholder question?" HorizontalAlignment="Center" Name="txtBlockQuestion" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" TextWrapping="Wrap" Margin="15,0" />
+                <Rectangle Height="3" HorizontalAlignment="Stretch" Name="rectMarqueQuestion" Stroke="Black" VerticalAlignment="Top" Fill="#41b1e1" Margin="15,0" />
+                
+                <!--Answer Holder-->
+                <StackPanel Name="stackPanelRadioAnswers">
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </Border>
+</UserControl>
+

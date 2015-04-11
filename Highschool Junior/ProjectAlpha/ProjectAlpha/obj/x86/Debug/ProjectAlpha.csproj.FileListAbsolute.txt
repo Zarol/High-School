@@ -1,0 +1,40 @@
+C:\Documents and Settings\Student\Desktop\ProjectAlpha\ProjectAlpha\bin\x86\Debug\ProjectAlpha.exe
+C:\Documents and Settings\Student\Desktop\ProjectAlpha\ProjectAlpha\bin\x86\Debug\ProjectAlpha.pdb
+C:\Documents and Settings\Student\Desktop\ProjectAlpha\ProjectAlpha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Student\Desktop\ProjectAlpha\ProjectAlpha\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Student\Desktop\ProjectAlpha\ProjectAlpha\obj\x86\Debug\ProjectAlpha.exe
+C:\Documents and Settings\Student\Desktop\ProjectAlpha\ProjectAlpha\obj\x86\Debug\ProjectAlpha.pdb
+C:\Documents and Settings\Student\Desktop\ProjectAlpha\ProjectAlpha\bin\x86\Debug\Content\debugFont.xnb
+C:\Documents and Settings\Student\Desktop\ProjectAlpha\ProjectAlpha\bin\x86\Debug\Content\tex_GrassHex.xnb
+I:\ProjectAlpha\ProjectAlpha\bin\x86\Debug\Content\debugFont.xnb
+I:\ProjectAlpha\ProjectAlpha\bin\x86\Debug\Content\tex_GrassHex.xnb
+I:\ProjectAlpha\ProjectAlpha\bin\x86\Debug\ProjectAlpha.exe
+I:\ProjectAlpha\ProjectAlpha\bin\x86\Debug\ProjectAlpha.pdb
+I:\ProjectAlpha\ProjectAlpha\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\ProjectAlpha\ProjectAlpha\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\ProjectAlpha\ProjectAlpha\obj\x86\Debug\ProjectAlpha.exe
+I:\ProjectAlpha\ProjectAlpha\obj\x86\Debug\ProjectAlpha.pdb
+K:\ProjectAlpha\ProjectAlpha\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProjectAlpha\ProjectAlpha\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\ProjectAlpha\ProjectAlpha\obj\x86\Debug\ProjectAlpha.exe
+K:\ProjectAlpha\ProjectAlpha\bin\x86\Debug\Content\debugFont.xnb
+K:\ProjectAlpha\ProjectAlpha\bin\x86\Debug\Content\tex_GrassHex.xnb
+K:\ProjectAlpha\ProjectAlpha\bin\x86\Debug\ProjectAlpha.exe
+K:\ProjectAlpha\ProjectAlpha\bin\x86\Debug\ProjectAlpha.pdb
+K:\ProjectAlpha\ProjectAlpha\obj\x86\Debug\ProjectAlpha.pdb
+H:\Game Projects\ProjectAlpha\ProjectAlpha\bin\x86\Debug\Content\debugFont.xnb
+H:\Game Projects\ProjectAlpha\ProjectAlpha\bin\x86\Debug\Content\tex_GrassHex.xnb
+H:\Game Projects\ProjectAlpha\ProjectAlpha\bin\x86\Debug\ProjectAlpha.exe
+H:\Game Projects\ProjectAlpha\ProjectAlpha\bin\x86\Debug\ProjectAlpha.pdb
+H:\Game Projects\ProjectAlpha\ProjectAlpha\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Game Projects\ProjectAlpha\ProjectAlpha\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Game Projects\ProjectAlpha\ProjectAlpha\obj\x86\Debug\ProjectAlpha.exe
+H:\Game Projects\ProjectAlpha\ProjectAlpha\obj\x86\Debug\ProjectAlpha.pdb
+I:\Junior\5 DGP\Game Projects\ProjectAlpha\ProjectAlpha\bin\x86\Debug\Content\debugFont.xnb
+I:\Junior\5 DGP\Game Projects\ProjectAlpha\ProjectAlpha\bin\x86\Debug\Content\tex_GrassHex.xnb
+I:\Junior\5 DGP\Game Projects\ProjectAlpha\ProjectAlpha\bin\x86\Debug\ProjectAlpha.exe
+I:\Junior\5 DGP\Game Projects\ProjectAlpha\ProjectAlpha\bin\x86\Debug\ProjectAlpha.pdb
+I:\Junior\5 DGP\Game Projects\ProjectAlpha\ProjectAlpha\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Junior\5 DGP\Game Projects\ProjectAlpha\ProjectAlpha\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Junior\5 DGP\Game Projects\ProjectAlpha\ProjectAlpha\obj\x86\Debug\ProjectAlpha.exe
+I:\Junior\5 DGP\Game Projects\ProjectAlpha\ProjectAlpha\obj\x86\Debug\ProjectAlpha.pdb

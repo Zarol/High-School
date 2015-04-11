@@ -1,0 +1,20 @@
+c:\users\phasecode\documents\visual studio 2010\Projects\DSEServer\DSEServer\bin\Debug\DSEServer.exe
+c:\users\phasecode\documents\visual studio 2010\Projects\DSEServer\DSEServer\bin\Debug\DSEServer.pdb
+c:\users\phasecode\documents\visual studio 2010\Projects\DSEServer\DSEServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\phasecode\documents\visual studio 2010\Projects\DSEServer\DSEServer\obj\x86\Debug\DSEServer.Form1.resources
+c:\users\phasecode\documents\visual studio 2010\Projects\DSEServer\DSEServer\obj\x86\Debug\DSEServer.Properties.Resources.resources
+c:\users\phasecode\documents\visual studio 2010\Projects\DSEServer\DSEServer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\phasecode\documents\visual studio 2010\Projects\DSEServer\DSEServer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\phasecode\documents\visual studio 2010\Projects\DSEServer\DSEServer\obj\x86\Debug\DSEServer.exe
+c:\users\phasecode\documents\visual studio 2010\Projects\DSEServer\DSEServer\obj\x86\Debug\DSEServer.pdb
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\Doubleshot of Espresso Server\DSEServer\DSEServer\obj\x86\Debug\DSEServer.exe
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\Doubleshot of Espresso Server\DSEServer\DSEServer\obj\x86\Debug\DSEServer.pdb
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\Doubleshot of Espresso Server\DSEServer\DSEServer\bin\Debug\DSEServer.exe
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\Doubleshot of Espresso Server\DSEServer\DSEServer\bin\Debug\DSEServer.pdb
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\Doubleshot of Espresso Server\DSEServer\DSEServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\Doubleshot of Espresso Server\DSEServer\DSEServer\obj\x86\Debug\DSEServer.Home.resources
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\Doubleshot of Espresso Server\DSEServer\DSEServer\obj\x86\Debug\DSEServer.Properties.Resources.resources
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\Doubleshot of Espresso Server\DSEServer\DSEServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PhaseCode\Dropbox\Doubleshot Espresso\Doubleshot of Espresso Server\DSEServer\DSEServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Shane\Dropbox\Doubleshot Espresso\Doubleshot of Espresso Server\DSEServer\DSEServer\obj\x86\Debug\DSEServer.exe
+C:\Users\Shane\Dropbox\Doubleshot Espresso\Doubleshot of Espresso Server\DSEServer\DSEServer\obj\x86\Debug\DSEServer.pdb

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=zoneLoc
+comment0.target=Zone(java.awt.Point)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Zone\r\n
+comment1.params=
+comment1.target=void\ checkFull()
+comment1.text=\r\n\ This\ method\ will\ check\ if\ Zone\ is\ full.\ If\ full\ it\ will\ place\ itself\ into\ Grid.\r\n
+comment2.params=objCell
+comment2.target=void\ fillZone(Cell)
+comment2.text=\r\n\ This\ method\ will\ fill\ the\ Zone\ with\ a\ specific\ Cell\r\n
+comment3.params=
+comment3.target=java.awt.Point\ getLocation()
+comment3.text=\r\n\ This\ method\ will\ return\ the\ Zone's\ location\r\n
+comment4.params=cellLoc
+comment4.target=int\ getValue(java.awt.Point)
+comment4.text=\r\n\ Returns\ the\ Zone's\ array\r\n
+numComments=5

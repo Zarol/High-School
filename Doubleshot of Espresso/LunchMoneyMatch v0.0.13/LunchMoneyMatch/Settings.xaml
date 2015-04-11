@@ -1,0 +1,116 @@
+<Page x:Class="LunchMoneyMatch.Settings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:Behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"
+      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+      mc:Ignorable="d"
+	Title="Settings">
+
+    <!--Metro UI Packages-->
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resources/Icons.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colours.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.AnimatedSingleRowTabControl.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Page.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20*"></RowDefinition>
+            <RowDefinition Height="80*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10*"></ColumnDefinition>
+            <ColumnDefinition Width="80*"></ColumnDefinition>
+            <ColumnDefinition Width="10*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Image Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" Name="SettingsImage" VerticalAlignment="Top" Source="/LunchMoneyMatch;component/Images/Settings%20-%20Filler%20Graphic.png" />
+        <TabControl Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" Name="tabControl1" VerticalAlignment="Top">
+            <TabItem Header="Account" Name="accountTab">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="60*" />
+                        <ColumnDefinition Width="40*" />
+                    </Grid.ColumnDefinitions>
+                    <Expander Header="Change E-Mail" Grid.Row="0" VerticalAlignment="Top">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="40*" />
+                                <ColumnDefinition Width="40*" />
+                                <ColumnDefinition Width="20*" />
+                            </Grid.ColumnDefinitions>
+                            <!-- Row 1: Current E-mail -->
+                            <Label  Content="Current E-Mail: " Grid.Row="0" Grid.Column="0"></Label>
+                            <Label Name="currentEmailLabel" Grid.Row="0" Grid.Column="1" Width="192"></Label>
+                            <!-- Row 2: New E-Mail -->
+                            <Label Name="newEmailLabel" Content="New E-Mail: " Grid.Row="1" Grid.Column="0"></Label>
+                            <TextBox Name="newEmailTextBox" Grid.Row="1" Grid.Column="1" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" Width="192"></TextBox>
+                            <!-- Row 3: Confirm E-Mail -->
+                            <Label Name="confirmEmailLabel" Content="Confirm E-Mail: " Grid.Row="2" Grid.Column="0"></Label>
+                            <TextBox Name="confirmEmailTextBox" Grid.Row="2" Grid.Column="1" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" Width="192"></TextBox>
+                            <!-- Row 4: Confirm Change in Password -->
+                            <Button Content="Change E-mail" Grid.Row="3" Grid.Column="2" Name="changeEmailButton" Click="changeEmailButton_Click"></Button>
+                        </Grid>
+                    </Expander>
+                    <Label Name="emailsDoNotMatchErrorLabel" Content="The E-mail in 'Confirm E-Mail' does not match 'New E-Mail'" Grid.Row="0" Grid.Column="1" Visibility="Hidden" Foreground="Red"></Label>
+                    <Label Name="confirmationEmailSentLabel" Content="An e-mail has been sent to the new e-mail address. Check your email to confirm this new e-mail address." Grid.Row="0" Grid.Column="1" Visibility="Hidden" Foreground="Blue"></Label>
+                    <Label Name="invalidEmailErrorLabel" Content="Please enter a valid E-mail address" Grid.Row="0" Grid.Column="1" Visibility="Hidden" Foreground="Red"></Label>
+                    <Expander Header="Change Password" Grid.Row="1" VerticalAlignment="Top">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="40*" />
+                                <ColumnDefinition Width="40*" />
+                                <ColumnDefinition Width="20*" />
+                            </Grid.ColumnDefinitions>
+                            <!-- Row 1: Old Password -->
+                            <Label Content="Old Password:" Grid.Row="0" Grid.Column="0"></Label>
+                            <PasswordBox Name="oldPasswordPBox" Grid.Row="0" Grid.Column="1" MinWidth="8" MaxLength="16" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" Width="192"></PasswordBox>
+                            
+                            <!-- Row 2: New Password -->
+                            <Label Content="New Password:" Grid.Row="1" Grid.Column="0"></Label>
+                            <PasswordBox ToolTip="Show Password Requirements" Name="newPasswordPBox" Grid.Row="1" Grid.Column="1" MinWidth="8" MaxLength="16" VerticalAlignment="Stretch" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" Width="192"></PasswordBox>
+                            <!-- Row 3: Confirm Password -->
+                            <Label Content="Confirm Password:" Grid.Row="2" Grid.Column="0"></Label>
+                            <PasswordBox Name="confirmPasswordPBox" Grid.Row="2" Grid.Column="1" MinWidth="8" MaxLength="16" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" Width="192"></PasswordBox>
+                            <!-- Row 4: Confirm Change in Password -->
+                            <Button Content="Change Password" Grid.Row="4" Grid.Column="2" Name="changePasswordButton" Click="changePasswordButton_Click"></Button>
+                        </Grid>
+                    </Expander>
+                    <Label Name="oldPasswordErrorLabel" Content="Old Password does not match current password" Grid.Row="1" Grid.Column="1" Visibility="Hidden" Foreground="Red"></Label>
+                    <Label Name="passwordsDoNotMatchErrorLabel" Content="The password in 'Confirm Password' does not match 'New Password'" Grid.Row="1" Grid.Column="1" Visibility="Hidden" Foreground="Red"></Label>
+                    <Label Name="invalidPasswordErrorLabel" Content="Please enter a valid password (Click here to review the password requirements)" Grid.Row="1" Grid.Column="1" Visibility="Hidden" Foreground="Red"></Label>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Notifications" Name="noticationTab">
+                <Grid>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Page>

@@ -1,0 +1,3 @@
+K:\ProjectAlpha\ProjectAlpha\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Game Projects\ProjectAlpha\ProjectAlpha\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Junior\5 DGP\Game Projects\ProjectAlpha\ProjectAlpha\Content\obj\x86\Debug\ResolveAssemblyReference.cache

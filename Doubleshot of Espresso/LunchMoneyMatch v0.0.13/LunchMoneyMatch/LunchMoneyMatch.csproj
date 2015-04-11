@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F7E89B9B-5406-465A-8AA5-9B6AAFAC32B0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LunchMoneyMatch</RootNamespace>
+    <AssemblyName>LunchMoneyMatch</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>LunchMoneyMatch.App</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MahApps.Metro, Version=0.9.0.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f">
+      <HintPath>..\..\Project DLLs\MahApps.Metro.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Interactivity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\..\Project DLLs\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <None Include="Profile\CollegeControl.xaml.cs">
+      <DependentUpon>CollegeControl.xaml</DependentUpon>
+    </None>
+    <Compile Include="Calendar.xaml.cs">
+      <DependentUpon>Calendar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Calendar Controls\MonthCalendar.xaml.cs">
+      <DependentUpon>MonthCalendar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Calendar Controls\DayControl.xaml.cs">
+      <DependentUpon>DayControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Profile\CollegeHandler.xaml.cs">
+      <DependentUpon>CollegeHandler.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Profile\HighSchoolHandler.xaml.cs">
+      <DependentUpon>HighSchoolHandler.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Profile\HighSchoolButtons.xaml.cs">
+      <DependentUpon>HighSchoolButtons.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Profile\HighSchoolControl.xaml.cs">
+      <DependentUpon>HighSchoolControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Job Listing Controls\ApplicationMultipleChoiceQuestion.xaml.cs">
+      <DependentUpon>ApplicationMultipleChoiceQuestion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Job Listing Controls\ApplicationFreeResponseQuestion.xaml.cs">
+      <DependentUpon>ApplicationFreeResponseQuestion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Job Listing Controls\JobListings.xaml.cs">
+      <DependentUpon>JobListings.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Survey Controls\Answer.cs" />
+    <Compile Include="Survey Controls\Question.cs" />
+    <Compile Include="Survey Controls\QuestionControl.xaml.cs">
+      <DependentUpon>QuestionControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Survey Controls\QuestionGenerator.xaml.cs">
+      <DependentUpon>QuestionGenerator.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Survey Controls\QuestionGeneratorConfirmationDialog.xaml.cs">
+      <DependentUpon>QuestionGeneratorConfirmationDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Survey Controls\SurveyPage.xaml.cs">
+      <DependentUpon>SurveyPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Survey Controls\TestDatabase.cs" />
+    <Compile Include="XAML Helpers\ArithmeticConverter.cs" />
+    <Compile Include="XAML Helpers\GridLengthAnimation.cs" />
+    <Compile Include="Job Listing Controls\JobListingItem.xaml.cs">
+      <DependentUpon>JobListingItem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Job Listing Controls\JobListingApplication.xaml.cs">
+      <DependentUpon>JobListingApplication.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Navigation.xaml.cs">
+      <DependentUpon>Navigation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AlertControl.xaml.cs">
+      <DependentUpon>AlertControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Profile\Profile.xaml.cs">
+      <DependentUpon>Profile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resume.xaml.cs">
+      <DependentUpon>Resume.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resume\ResumeExpander.xaml.cs">
+      <DependentUpon>ResumeExpander.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resume\ResumeElement.xaml.cs">
+      <DependentUpon>ResumeElement.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resume\ResumeControl.xaml.cs">
+      <DependentUpon>ResumeControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resume\ResumeExpanderOLD.cs" />
+    <Compile Include="Resume\ResumeTextOLD.cs" />
+    <Compile Include="Server\ServerControl.cs" />
+    <Compile Include="Server\ServerString.cs" />
+    <Compile Include="Server\TcpConnect.cs" />
+    <Compile Include="Server\UserInfo.cs" />
+    <Compile Include="Settings.xaml.cs">
+      <DependentUpon>Settings.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp.xaml.cs">
+      <DependentUpon>SignUp.xaml</DependentUpon>
+    </Compile>
+    <None Include="Profile\CollegeControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <Page Include="Calendar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Calendar Controls\MonthCalendar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Calendar Controls\DayControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Profile\CollegeHandler.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Profile\HighSchoolHandler.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Profile\HighSchoolButtons.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Profile\HighSchoolControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Job Listing Controls\ApplicationMultipleChoiceQuestion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Job Listing Controls\ApplicationFreeResponseQuestion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Job Listing Controls\JobListingItem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Job Listing Controls\JobListingApplication.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Job Listing Controls\JobListings.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Login.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Navigation.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="AlertControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Profile\Profile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Survey Controls\QuestionControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Survey Controls\QuestionGenerator.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Survey Controls\QuestionGeneratorConfirmationDialog.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Survey Controls\SurveyPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Resource Include="Resources\Icons.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Resource>
+    <Page Include="Resume.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resume\ResumeExpander.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resume\ResumeElement.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resume\ResumeControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Settings.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SignUp.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+    <Resource Include="Resources\Entypo.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Entypo-license.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Settings - Filler Graphic.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

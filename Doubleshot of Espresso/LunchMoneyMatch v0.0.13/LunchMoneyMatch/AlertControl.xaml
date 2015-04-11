@@ -1,0 +1,104 @@
+<UserControl x:Class="LunchMoneyMatch.AlertControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:local="clr-namespace:LunchMoneyMatch"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:Behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"
+             xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+             mc:Ignorable="d" 
+             d:DesignHeight="30" d:DesignWidth="800" BorderBrush="White">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resources/Icons.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colours.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.AnimatedSingleRowTabControl.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <local:offsetVertical x:Key="offsetVertical" />
+            <Storyboard x:Key="rollDown">
+                <ThicknessAnimation Storyboard.TargetName="gridContent" Storyboard.TargetProperty="Margin" Duration="0:0:0.5" BeginTime="0:0:0">
+                    <ThicknessAnimation.From>
+                        <MultiBinding Converter="{StaticResource offsetVertical}">
+                            <Binding ElementName="gridRoot"
+                             Path="Margin.Left" />
+                            <Binding ElementName="gridRoot"
+                             Path="ActualHeight" />
+                            <Binding ElementName="gridRoot"
+                             Path="Margin.Right" />
+                            <Binding ElementName="gridRoot"
+                             Path="ActualHeight" />
+                        </MultiBinding>
+                    </ThicknessAnimation.From>
+                    <ThicknessAnimation.To>
+                        0
+                    </ThicknessAnimation.To>
+                </ThicknessAnimation>
+            </Storyboard>
+            <Storyboard x:Key="rollUp">
+                <ThicknessAnimation Storyboard.TargetName="gridContent" Storyboard.TargetProperty="Margin" Duration="0:0:0.5" BeginTime="0:0:0">
+                    <ThicknessAnimation.To>
+                        <MultiBinding Converter="{StaticResource offsetVertical}">
+                            <Binding ElementName="gridRoot"
+                             Path="Margin.Left" />
+                            <Binding ElementName="gridRoot"
+                             Path="ActualHeight" />
+                            <Binding ElementName="gridRoot"
+                             Path="Margin.Right" />
+                            <Binding ElementName="gridRoot"
+                             Path="ActualHeight" />
+                        </MultiBinding>
+                    </ThicknessAnimation.To>
+                    <ThicknessAnimation.From>
+                        0
+                    </ThicknessAnimation.From>
+                </ThicknessAnimation>
+            </Storyboard>
+        </ResourceDictionary>
+        <!--Facebook Blue: #3b5998, Twitter Dark Blue: #8ec1da, Twitter Light Blue: #c0deed, UI Green: #41a907, UI Blue: #41b1e1-->
+    </UserControl.Resources>
+
+    <Grid Name="gridRoot" Background="Transparent">
+        <!--<Grid.Triggers>
+            <EventTrigger RoutedEvent="MouseEnter">
+                <BeginStoryboard Storyboard="{StaticResource rollDown}"/>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="MouseLeave">
+                <BeginStoryboard Storyboard="{StaticResource rollUp}"/>
+            </EventTrigger>
+        </Grid.Triggers>-->
+
+        <Grid Name="gridContent" Width="{Binding Source=gridRoot, Path=Width}" Height="{Binding Source=gridRoot, Path=Width}" Background="#41a907">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40" />
+                <ColumnDefinition Width="700*" />
+            </Grid.ColumnDefinitions>
+            <Grid.Margin>
+                <MultiBinding Converter="{StaticResource offsetVertical}">
+                    <Binding ElementName="gridRoot"
+                             Path="Margin.Left" />
+                    <Binding ElementName="gridRoot"
+                             Path="ActualHeight" />
+                    <Binding ElementName="gridRoot"
+                             Path="Margin.Right" />
+                    <Binding ElementName="gridRoot"
+                             Path="ActualHeight" />
+                </MultiBinding>
+            </Grid.Margin>
+            <Label Name="lblContent" Content="MAX 70 CHARACTERS" FontSize="20" Foreground="White" Width="Auto" Height="Auto" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="0" Grid.Column="1" PreviewMouseLeftButtonUp="lblContent_PreviewMouseLeftButtonUp" />
+            <Button Name="btnRemove" Height="30" Width="30" Grid.Column="0" Style="{DynamicResource MetroCircleButtonStyle}" HorizontalAlignment="Center" VerticalAlignment="Center" Click="btnRemove_Click">
+                <Rectangle Width="15" Height="15" >
+                    <Rectangle.Fill>
+                        <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_close}" />
+                    </Rectangle.Fill>
+                </Rectangle>
+            </Button>
+        </Grid>
+    
+    </Grid>
+</UserControl>

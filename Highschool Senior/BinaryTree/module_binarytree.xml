@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_binarytree" default="compile.module.binarytree">
+  <dirname property="module.binarytree.basedir" file="${ant.file.module_binarytree}"/>
+  
+  <property name="module.jdk.home.binarytree" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.binarytree" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.binarytree" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.binarytree" value="${compiler.args}"/>
+  
+  <property name="binarytree.output.dir" value="${module.binarytree.basedir}/out/production/BinaryTree"/>
+  <property name="binarytree.testoutput.dir" value="${module.binarytree.basedir}/out/test/BinaryTree"/>
+  
+  <path id="binarytree.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="binarytree.module.production.classpath">
+    <path refid="${module.jdk.classpath.binarytree}"/>
+  </path>
+  
+  <path id="binarytree.runtime.production.module.classpath">
+    <pathelement location="${binarytree.output.dir}"/>
+  </path>
+  
+  <path id="binarytree.module.classpath">
+    <path refid="${module.jdk.classpath.binarytree}"/>
+    <pathelement location="${binarytree.output.dir}"/>
+  </path>
+  
+  <path id="binarytree.runtime.module.classpath">
+    <pathelement location="${binarytree.testoutput.dir}"/>
+    <pathelement location="${binarytree.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.binarytree">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.binarytree">
+    <patternset refid="excluded.from.module.binarytree"/>
+  </patternset>
+  
+  <path id="binarytree.module.sourcepath">
+    <dirset dir="${module.binarytree.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.binarytree" depends="compile.module.binarytree.production,compile.module.binarytree.tests" description="Compile module BinaryTree"/>
+  
+  <target name="compile.module.binarytree.production" depends="register.custom.compilers" description="Compile module BinaryTree; production classes">
+    <mkdir dir="${binarytree.output.dir}"/>
+    <javac2 destdir="${binarytree.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.binarytree}/javac">
+      <compilerarg line="${compiler.args.binarytree}"/>
+      <bootclasspath refid="binarytree.module.bootclasspath"/>
+      <classpath refid="binarytree.module.production.classpath"/>
+      <src refid="binarytree.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.binarytree"/>
+    </javac2>
+    
+    <copy todir="${binarytree.output.dir}">
+      <fileset dir="${module.binarytree.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.binarytree.tests" depends="register.custom.compilers,compile.module.binarytree.production" description="compile module BinaryTree; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.binarytree" description="cleanup module">
+    <delete dir="${binarytree.output.dir}"/>
+    <delete dir="${binarytree.testoutput.dir}"/>
+  </target>
+</project>

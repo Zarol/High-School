@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ATechBoardGameClub.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DatabasePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Saharath\Desktop\ATechBoardGameClub\InventoryDatabase\</Value>
+    </Setting>
+    <Setting Name="DatabaseName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">BoardGameClubDatabase.sdf</Value>
+    </Setting>
+    <Setting Name="Blue" Type="System.Windows.Media.Color" Scope="Application">
+      <Value Profile="(Default)">#FF1585B5</Value>
+    </Setting>
+    <Setting Name="Purple" Type="System.Windows.Media.Color" Scope="Application">
+      <Value Profile="(Default)">#FF7141E1</Value>
+    </Setting>
+    <Setting Name="Gray" Type="System.Windows.Media.Color" Scope="Application">
+      <Value Profile="(Default)">#FF252525</Value>
+    </Setting>
+    <Setting Name="AdminPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

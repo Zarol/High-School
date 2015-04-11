@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Grid()
+comment1.params=
+comment1.target=void\ generate()
+comment1.text=\r\n\ \ \ \ create\ a\ CellStack\ (LIFO)\ to\ hold\ a\ list\ of\ cell\ locations\r\n\ \ \ \ set\ TotalCells\ \=\ number\ of\ cells\ in\ grid\r\n\ \ \ \ choose\ a\ cell\ at\ random\ and\ call\ it\ CurrentCell\r\n\ \ \ \ set\ VisitedCells\ \=\ 1\r\n\ \ \ \ \r\n\ \ \ \ while\ VisitedCells\ <\ TotalCells\r\n\ \ \ \ \r\n\ \ \ \ find\ all\ neighbors\ of\ CurrentCell\ with\ all\ walls\ intact\r\n\ \ \ \ if\ one\ or\ more\ found\r\n\ \ \ \ choose\ one\ at\ random\r\n\ \ \ \ knock\ down\ the\ wall\ between\ it\ and\ CurrentCell\r\n\ \ \ \ push\ CurrentCell\ location\ on\ the\ CellStack\r\n\ \ \ \ make\ the\ new\ cell\ CurrentCell\r\n\ \ \ \ add\ 1\ to\ VisitedCells\r\n\ \ \ \ else\r\n\ \ \ \ pop\ the\ most\ recent\ cell\ entry\ off\ the\ CellStack\r\n\ \ \ \ make\ it\ CurrentCell\ endIf\r\n\ \ \ \ \r\n\ \ \ \ endWhile\r\n
+comment2.params=currentLocation
+comment2.target=java.util.ArrayList\ neighborsAllWalls(java.awt.Point)
+comment3.params=
+comment3.target=java.awt.Point\ getSize()
+comment4.params=
+comment4.target=int\ getLineLength()
+comment5.params=
+comment5.target=java.awt.Point\ getScreenSize()
+numComments=6

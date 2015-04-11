@@ -1,0 +1,59 @@
+﻿<UserControl x:Class="MMTEvaluationSystem.InformationDisplay"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="75" d:DesignWidth="550">
+    <Controls:MetroContentControl Name="contentControl">
+        <!--ITEM INFORMATION-->
+        <WrapPanel Name="wrapRoot">
+            <!--EMAIL-->
+            <Label Name="lblEmail"
+                       Content="Email:"
+                       VerticalAlignment="Center"
+                       FontSize="14" FontWeight="Bold" />
+            <Label Name="lblEmailInfo"
+                       Content="N/A"
+                       VerticalAlignment="Center"
+                       FontSize="14"/>
+            <Rectangle Name="MarqueDivider1"
+                           Width="3"
+                           Fill="#1585b5"/>
+            <!--PHONE-->
+            <Label Name="lblPhone"
+                       Content="Phone:"
+                       VerticalAlignment="Center"
+                       FontSize="14" FontWeight="Bold" />
+            <Label Name="lblPhoneInfo"
+                       Content="N/A"
+                       VerticalAlignment="Center"
+                       FontSize="14"/>
+            <Rectangle Name="MarqueDivider2"
+                           Width="3"
+                           Fill="#1585b5"/>
+            <!--CELL-->
+            <Label Name="lblCell"
+                       Content="Cell:"
+                       VerticalAlignment="Center"
+                       FontSize="14" FontWeight="Bold" />
+            <Label Name="lblCellInfo"
+                       Content="N/A"
+                       VerticalAlignment="Center"
+                       FontSize="14"/>
+            <Rectangle Name="MarqueDivider3"
+                           Width="3"
+                           Fill="#1585b5"/>
+            <!--ADDRESS-->
+            <Label Name="lblAddress"
+                       Content="Address:"
+                       VerticalAlignment="Center"
+                       FontSize="14" FontWeight="Bold" />
+            <Label Name="lblAddressInfo"
+                       Content="N/A"
+                       VerticalAlignment="Center"
+                       FontSize="14"/>
+        </WrapPanel>
+    </Controls:MetroContentControl>
+</UserControl>

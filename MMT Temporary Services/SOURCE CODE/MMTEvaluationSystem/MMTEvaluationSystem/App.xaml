@@ -1,0 +1,29 @@
+﻿<Application x:Class="MMTEvaluationSystem.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!--
+                    The following resources are used to aid in the development of
+                    visual aspects of the software. It does not contribute to,
+                    affect, or resolve any issues that relate to the actual
+                    programming of the software. This resource provides a more
+                    fluid user-end experience and is included in the project's DLLs 
+                    named (MahApps.Metro) and (System.Windows.Interactivty). The 
+                    DLLs have not been modified in any way and are under the MS-PL 
+                    license. The package can be found at: 
+                    (https://www.nuget.org/packages/MahApps.Metro/).
+                    -->
+                <ResourceDictionary Source="Resources/IconsResource.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colours.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseDark.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.AnimatedSingleRowTabControl.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

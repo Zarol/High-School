@@ -1,0 +1,17 @@
+﻿<Window x:Class="LunchMoneyMatch.Survey_Controls.QuestionGeneratorConfirmationDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="300" Width="300" ResizeMode="NoResize" SizeToContent="WidthAndHeight">
+    <StackPanel Orientation="Vertical">
+        <Label Content="You have created a new question!"></Label>
+        <Label Content="Question Text:" Name="QuestionText"></Label>
+        <Label Content="Answer A: " Name="AnswerA"></Label>
+        <Label Content="Answer B: " Name="AnswerB"></Label>
+        <Label Content="Answer C: " Name="AnswerC"></Label>
+        <Label Content="Answer D: " Name="AnswerD"></Label>
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Cancel" Padding="50,0" Click="Button_Click"></Button>
+            <Button Content="Submit to Database" Padding="15,0" Click="Button_Click_1"></Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

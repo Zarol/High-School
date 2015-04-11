@@ -1,0 +1,157 @@
+﻿<Page x:Class="MMTEvaluationSystem.HelpPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+      mc:Ignorable="d" 
+      d:DesignHeight="345" d:DesignWidth="381"
+	Title="HelpPage">
+    <Controls:MetroContentControl Name="contentControlRoot">
+        <ScrollViewer Name="scrollRoot">
+            <StackPanel Name="stackRoot">
+                <Grid Name="gridTitle">
+                    <Label Name="lblTitle"
+                           Content="Help Menu"
+                           HorizontalAlignment="Center" VerticalAlignment="Center"
+                           FontSize="18" FontWeight="Bold"/>
+                    <Button Name="btnBack"
+                Style="{DynamicResource MetroCircleButtonStyle}"
+                Width="30" Height="30"
+                        Grid.Row="0" Grid.Column="3"
+                        HorizontalAlignment="Right" Click="btnBack_Click">
+                        <Button.Content>
+                            <Rectangle Height="15" Width="15">
+                                <Rectangle.Fill>
+                                    <VisualBrush Stretch="Fill"
+                                         Visual="{StaticResource appbar_arrow_left}"/>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                        </Button.Content>
+                    </Button>
+                </Grid>
+                <Rectangle Name="MarqueTop"
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   VerticalAlignment="Bottom"
+                   Height="3"
+                   Fill="#1585b5"/>
+                <Label Content="My Data Does Not Match My Edits:"
+                       FontSize="14" FontWeight="Bold"
+                       Padding="5,0"/>
+                <TextBlock Text="&#x09;Restarting the program should fix any errors in the data." 
+                           TextWrapping="Wrap" 
+                           Margin="5,0,5,5"/>
+                <Rectangle
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   VerticalAlignment="Bottom"
+                   Height="3"
+                   Fill="#1585b5"/>
+                <Label Content="How to Add an Employee:"
+                       FontSize="14" FontWeight="Bold"
+                       Padding="5,0"/>
+                <TextBlock Text="&#x09;To add an employee, first select 'Employees' from the drop-down box next to 'Selected' located on the top of the screen. Next click the 'Add New' button located on the bottom-left-hand side of the window. Fill out all of the required information that appears on the screen and hit 'Create.' Your newly created employee will be available on the list on the left hand side of the window." 
+                           TextWrapping="Wrap" 
+                           Margin="5,0,5,5"/>
+                <Rectangle
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   VerticalAlignment="Bottom"
+                   Height="3"
+                   Fill="#1585b5"/>
+                <Label Content="How to Add an Employer:"
+                       FontSize="14" FontWeight="Bold"
+                       Padding="5,0"/>
+                <TextBlock Text="&#x09;To add an employer, first select 'Employers' from the drop-down box next to 'Selected' located on the top of the screen. Next click the 'Add New' button located on the bottom-left-hand side of the window. Fill out all of the required information that appears on the screen and hit 'Create.' Your newly created employer will be available on the list on the left hand side of the window." 
+                           TextWrapping="Wrap" 
+                           Margin="5,0,5,5"/>
+                <Rectangle
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   VerticalAlignment="Bottom"
+                   Height="3"
+                   Fill="#1585b5"/>
+                <Label Content="How to Create an Employee Evaluation:"
+                       FontSize="14" FontWeight="Bold"
+                       Padding="5,0"/>
+                <TextBlock Text="&#x09;To create an employee evaluation, click on an employee from the list on the left-hand side of the window. If the selected employee has no prior evaluations, you can simply create one by filling out the required information that appears on the screen and clicking 'Create.' If the selected employee already has a prior evaluation, simply click 'New Evaluation' on the bottom-right-hand side of the screen. Fill out the required information that appears on the screen and click 'Create.' NOTE: To create an evaluation for an employee, you must first create an employer to assign the evaluation to." 
+                           TextWrapping="Wrap" 
+                           Margin="5,0,5,5"/>
+                <Rectangle
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   VerticalAlignment="Bottom"
+                   Height="3"
+                   Fill="#1585b5"/>
+                <Label Content="How to Add a Field Placement:"
+                       FontSize="14" FontWeight="Bold"
+                       Padding="5,0"/>
+                <TextBlock Text="&#x09;To add a field placement, click on an employer from the list on the left-hand side of the window. Under the label 'Field Placements,' click the drop-down box for a list of available employees. Select an available employee to add that employee to that employer's field placements. NOTE: To add an employee to an employer's field placement, an employee must first be created." 
+                           TextWrapping="Wrap" 
+                           Margin="5,0,5,5"/>
+                <Rectangle
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   VerticalAlignment="Bottom"
+                   Height="3"
+                   Fill="#1585b5"/>
+                <Label Content="How to Delete Any Item:"
+                       FontSize="14" FontWeight="Bold"
+                       Padding="5,0"/>
+                <TextBlock Text="&#x09;To delete an item within the service, simply click on the 'X' that can be found next to any Employee/Employer/Evaluation/Field Placement." 
+                           TextWrapping="Wrap" 
+                           Margin="5,0,5,5"/>
+                <Rectangle
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   VerticalAlignment="Bottom"
+                   Height="3"
+                   Fill="#1585b5"/>
+                <Label Content="How to Edit Employee/Employer Information:"
+                       FontSize="14" FontWeight="Bold"
+                       Padding="5,0"/>
+                <TextBlock Text="&#x09;To edit an employee's or employer's information, first click on the respective item. Next click on the [GEAR] symbol to display the information edit panel. An employee's and company's name may not be edited. After the information has been edited, click on the [CHECK] symbol to finalize your edits." 
+                           TextWrapping="Wrap" 
+                           Margin="5,0,5,5"/>
+                <Rectangle
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   VerticalAlignment="Bottom"
+                   Height="3"
+                   Fill="#1585b5"/>
+                <Label Content="How to Edit an Evaluation:"
+                       FontSize="14" FontWeight="Bold"
+                       Padding="5,0"/>
+                <TextBlock Text="&#x09;To edit an evaluation, first click on an employee with a precreated evaluation. The evaluation's specific scoring may be changed by clicking on the drop-down box and selecting one of the scores. To edit a specific comment, simply click on the box below the scoring and begin typing. To edit an employee's next evaluation date, simply change the 'Next Evaluation' text on the bottom of the screen. Note: The date of the current evaluation may note be changed. When edits are completed, click on the 'Apply Changes' button in the middle on the screen." 
+                           TextWrapping="Wrap" 
+                           Margin="5,0,5,5"/>
+                <Rectangle
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   VerticalAlignment="Bottom"
+                   Height="3"
+                   Fill="#1585b5"/>
+                <Label Content="How to Access an Employee's Overall Progress:"
+                       FontSize="14" FontWeight="Bold"
+                       Padding="5,0"/>
+                <TextBlock Text="&#x09;To access an employee's overall progress, first click on an employee with a precreated evaluation. Next, click on 'Overall Progress' located in the center-right-hand side of the screen. To return back to an employee's specific evaluation, click the [LEFT ARROW] symbol located where the 'Overall Progress' button was located." 
+                           TextWrapping="Wrap" 
+                           Margin="5,0,5,5"/>
+                <Rectangle
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   VerticalAlignment="Bottom"
+                   Height="3"
+                   Fill="#1585b5"/>
+                <Label Content="How to Export the Service's Data:"
+                       FontSize="14" FontWeight="Bold"
+                       Padding="5,0"/>
+                <TextBlock Text="&#x09;Simply click on 'Export Data' located on the top-right-hand side of the screen. A window will appear with the locations of the four created data files. These data files can be found under your installation directory inside the 'Data Files' folder. NOTE: The path of the data files cannot currently be changed and will always appear under this path." 
+                           TextWrapping="Wrap" 
+                           Margin="5,0,5,5"/>
+                <Rectangle
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   VerticalAlignment="Bottom"
+                   Height="3"
+                   Fill="#1585b5"/>
+                <Label Content="How to Sort the List of Employees / Employers:"
+                       FontSize="14" FontWeight="Bold"
+                       Padding="5,0"/>
+                <TextBlock Text="&#x09;To sort the list of employees / employers, simply click on the drop-down box located on the top of the window next to 'Sort By.' Next click on the various ways you wish to sort the list of employees / employers. NOTE: Data exporting will always export in order from first created to last created." 
+                           TextWrapping="Wrap" 
+                           Margin="5,0,5,5"/>
+            </StackPanel>
+        </ScrollViewer>
+    </Controls:MetroContentControl>
+</Page>

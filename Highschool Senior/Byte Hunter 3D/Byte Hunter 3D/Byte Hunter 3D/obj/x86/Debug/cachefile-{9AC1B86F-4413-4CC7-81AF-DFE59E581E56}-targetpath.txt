@@ -1,0 +1,10 @@
+Content\Post Process Bloom\BloomCombine.xnb
+Content\Post Process Bloom\BloomExtract.xnb
+Content\Post Process Bloom\GaussianBlur.xnb
+Content\Skybox\SkyboxEffect.xnb
+Content\Ships\MainShip.xnb
+Content\Skybox\Skybox.xnb
+Content\DebugFont.xnb
+Content\Misc\AlphaFader.xnb
+Content\Skybox\uvmorestuff.xnb
+Content\Skybox\uvmorestuff_0.xnb

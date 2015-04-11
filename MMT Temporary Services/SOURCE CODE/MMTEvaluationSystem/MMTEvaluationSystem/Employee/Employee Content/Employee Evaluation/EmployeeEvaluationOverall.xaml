@@ -1,0 +1,75 @@
+﻿<UserControl x:Class="MMTEvaluationSystem.EmployeeEvaluationOverall"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="550" Loaded="UserControl_Loaded">
+    <Controls:MetroContentControl Name="contentControlRoot"
+                                  Margin="15,0">
+        <StackPanel Name="stackRoot">
+            <Grid Name="gridHeader">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width=".7*" />
+                    <ColumnDefinition Width=".8*" />
+                    <ColumnDefinition Width="60" />
+                </Grid.ColumnDefinitions>
+                <Label Name="lblOverallScore"
+                   Content="Overall Score: 1"
+                   FontSize="16" FontWeight="Bold"
+                       Grid.Row="0" Grid.Column="0"
+                   HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                <Button Name="btnApply"
+                        Content="Apply Changes"
+                        Grid.Row="0" Grid.Column="2"
+                        HorizontalAlignment="Stretch" VerticalAlignment="Center"
+                        Margin="2,0" Click="btnApply_Click" />
+                <CheckBox Name="chkRecommend"
+                      Content="Recommend"
+                          Grid.Row="0" Grid.Column="1"
+                      FontSize="14" FontWeight="Bold"
+                      HorizontalAlignment="Left" VerticalAlignment="Center" Padding="0" />
+                <Button Name="btnBack"
+                Style="{DynamicResource MetroCircleButtonStyle}"
+                Width="30" Height="30"
+                        Grid.Row="0" Grid.Column="3"
+                        HorizontalAlignment="Center" Click="btnBack_Click">
+                    <Button.Content>
+                        <Rectangle Height="15" Width="15">
+                            <Rectangle.Fill>
+                                <VisualBrush Stretch="Fill"
+                                         Visual="{StaticResource appbar_arrow_left}"/>
+                            </Rectangle.Fill>
+                        </Rectangle>
+                    </Button.Content>
+                </Button>
+                
+            </Grid>
+            <Rectangle Name="MarqueTop"
+                   Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                   Height="3"
+                   Fill="#1585b5"/>
+            <Grid Name="gridComment"
+                  Margin="0,0,0,3">
+                <Label Name="lblComment"
+                       Content="Overall Comment:"
+                       FontSize="14" FontWeight="Bold"
+                       VerticalAlignment="Top" 
+                       Padding="2"/>
+                <TextBox Name="txtBoxComment"
+                     Margin="0,20,0,20" MinHeight="78" 
+                     TextWrapping="Wrap" 
+                     MaxLength="256" TextChanged="txtBoxComment_TextChanged" />
+                <Label Name="lblCommentRemain"
+                   Content="Remaining Characters: 256"
+                   HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                   Padding="0"
+                   Foreground="#808080" />
+            </Grid>
+            <StackPanel Name="stackEvaluations"
+                        Margin="3"/>
+        </StackPanel>
+    </Controls:MetroContentControl>
+</UserControl>

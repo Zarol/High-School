@@ -1,0 +1,4 @@
+C:\Users\Saharath\Desktop\Byte Hunter 3D\Byte Hunter 3D\Byte Hunter 3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Void Studios\Byte Hunter 3D\Byte Hunter 3D\Byte Hunter 3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Void Studios\Byte Hunter 3D\Byte Hunter 3D\Byte Hunter 3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\2 Digital Game Design III\Void Studios 222\Byte Hunter 3D\Byte Hunter 3D\Byte Hunter 3DContent\obj\x86\Debug\ResolveAssemblyReference.cache

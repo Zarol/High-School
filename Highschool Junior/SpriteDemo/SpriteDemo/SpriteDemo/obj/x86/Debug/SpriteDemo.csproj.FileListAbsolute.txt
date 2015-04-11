@@ -1,0 +1,94 @@
+F:\Dropbox\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\LoadingCircle.xnb
+F:\Dropbox\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.exe
+F:\Dropbox\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.pdb
+F:\Dropbox\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Dropbox\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Dropbox\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.exe
+F:\Dropbox\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.pdb
+F:\Dropbox\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\dudeSheet.xnb
+C:\Documents and Settings\Student\Desktop\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\LoadingCircle.xnb
+C:\Documents and Settings\Student\Desktop\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\dudeSheet.xnb
+C:\Documents and Settings\Student\Desktop\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\actor1m.xnb
+C:\Documents and Settings\Student\Desktop\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.exe
+C:\Documents and Settings\Student\Desktop\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.pdb
+C:\Documents and Settings\Student\Desktop\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Student\Desktop\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Student\Desktop\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.exe
+C:\Documents and Settings\Student\Desktop\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.pdb
+K:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\actor1m.xnb
+K:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.exe
+K:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.pdb
+K:\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.exe
+K:\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.pdb
+K:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\background2.xnb
+K:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\backgroundLOL.xnb
+K:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\Fireball.xnb
+I:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\actor1m.xnb
+I:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\background2.xnb
+I:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\backgroundLOL.xnb
+I:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\Fireball.xnb
+I:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.exe
+I:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.pdb
+I:\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.exe
+I:\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.pdb
+I:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\Default.xnb
+I:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\fireball_0.xnb
+K:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\fireball_0.xnb
+K:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\Default.xnb
+E:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\actor1m.xnb
+E:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\background2.xnb
+E:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\backgroundLOL.xnb
+E:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\Fireball.xnb
+E:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\fireball_0.xnb
+E:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\Default.xnb
+E:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.exe
+E:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.pdb
+E:\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.exe
+E:\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.pdb
+K:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\128x84.xnb
+I:\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\128x84.xnb
+I:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\actor1m.xnb
+I:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\background2.xnb
+I:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\backgroundLOL.xnb
+I:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\Fireball.xnb
+I:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\fireball_0.xnb
+I:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\128x84.xnb
+I:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\Default.xnb
+I:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.exe
+I:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.pdb
+I:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.exe
+I:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.pdb
+H:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\actor1m.xnb
+H:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\background2.xnb
+H:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\backgroundLOL.xnb
+H:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\Fireball.xnb
+H:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\fireball_0.xnb
+H:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\128x84.xnb
+H:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\Default.xnb
+H:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.exe
+H:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.pdb
+H:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.exe
+H:\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.pdb
+I:\Junior\5 DGP\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\actor1m.xnb
+I:\Junior\5 DGP\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\background2.xnb
+I:\Junior\5 DGP\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\backgroundLOL.xnb
+I:\Junior\5 DGP\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\Fireball.xnb
+I:\Junior\5 DGP\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\fireball_0.xnb
+I:\Junior\5 DGP\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\128x84.xnb
+I:\Junior\5 DGP\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\Content\Default.xnb
+I:\Junior\5 DGP\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.exe
+I:\Junior\5 DGP\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\bin\x86\Debug\SpriteDemo.pdb
+I:\Junior\5 DGP\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Junior\5 DGP\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Junior\5 DGP\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.exe
+I:\Junior\5 DGP\Game Projects\SpriteDemo\SpriteDemo\SpriteDemo\obj\x86\Debug\SpriteDemo.pdb

@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>E.png</Source>
+      <Name>E</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\E.xnb</Output>
+      <Time>2012-10-08T09:16:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>EN.png</Source>
+      <Name>EN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\EN.xnb</Output>
+      <Time>2012-10-08T09:16:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>N.png</Source>
+      <Name>N</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\N.xnb</Output>
+      <Time>2012-10-08T09:16:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>S.png</Source>
+      <Name>S</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\S.xnb</Output>
+      <Time>2012-10-08T09:16:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SE.png</Source>
+      <Name>SE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\SE.xnb</Output>
+      <Time>2012-10-08T09:16:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SEN.png</Source>
+      <Name>SEN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\SEN.xnb</Output>
+      <Time>2012-10-08T09:16:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SN.png</Source>
+      <Name>SN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\SN.xnb</Output>
+      <Time>2012-10-08T09:16:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>W.png</Source>
+      <Name>W</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\W.xnb</Output>
+      <Time>2012-10-08T09:16:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WE.png</Source>
+      <Name>WE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\WE.xnb</Output>
+      <Time>2012-10-08T09:16:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WEN.png</Source>
+      <Name>WEN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\WEN.xnb</Output>
+      <Time>2012-10-08T09:16:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WN.png</Source>
+      <Name>WN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\WN.xnb</Output>
+      <Time>2012-10-08T09:16:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WS.png</Source>
+      <Name>WS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\WS.xnb</Output>
+      <Time>2012-10-08T09:16:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WSE.png</Source>
+      <Name>WSE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\WSE.xnb</Output>
+      <Time>2012-10-08T09:16:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WSEN.png</Source>
+      <Name>WSEN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\WSEN.xnb</Output>
+      <Time>2012-10-08T09:16:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WSN.png</Source>
+      <Name>WSN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\WSN.xnb</Output>
+      <Time>2012-10-08T09:16:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Blank.png</Source>
+      <Name>Blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\Blank.xnb</Output>
+      <Time>2012-10-08T20:42:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2012-10-08T21:32:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Background2.png</Source>
+      <Name>Background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\Background2.xnb</Output>
+      <Time>2012-10-08T21:58:14-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGameContent\</RootDirectory>
+      <LoggerRootDirectory>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\</LoggerRootDirectory>
+      <IntermediateDirectory>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>J:\2 Digital Game Design III\MazeGame\MazeGame\MazeGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-18T23:55:24.6131337-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
